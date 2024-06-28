@@ -1,3 +1,6 @@
+"s23012"
+"倍数判定プログラミング"
+
 public class d49Q5kadai {
 	public static void main(String[] args) {
 		int limit = Integer.parseInt(args[0]);
