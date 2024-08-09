@@ -1,3 +1,6 @@
+//s23012
+//目盛りを10単位に変更
+
 class d52Q5kadai {
 		public static void main(String[] args) {
 				String majors = "+----";
